@@ -1,0 +1,9 @@
+{
+  "name": "node-fs-extra-issue-678",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^8.0.0"
+  }
+}
